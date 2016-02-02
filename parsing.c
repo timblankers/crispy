@@ -28,7 +28,7 @@ void add_history(char* unused) {}
 
 int main(int argc, char** argv) {
 
-	printf("Lispy Version 0.0.0.0.2\n");
+	printf("Lispy Version 0.0.0.0.3\n");
 	printf("Author: Tim Blankers with a noisy rooster\n");
 	printf("Press Ctrl+c to Exit\n");
 

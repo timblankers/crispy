@@ -1,2 +1,2 @@
-# lisp
-Creating a new lisp programming language in C
+# crispy
+A new cripsy programming language in C
